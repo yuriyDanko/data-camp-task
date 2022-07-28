@@ -1,0 +1,5 @@
+1. Please, make a screenshot of bash console in your local machine with AWS CLI commands, that you have executed according to the 'Task_Lesson_3' document description:
+- AWS CLI command to list big-data-camp-group21-lesson3 S3 bucket (task-data folder)
+- AWS CLI command to download task.txt from big-data-camp-group21-lesson3 S3 bucket (task-data folder)
+2. Save screenshot in jpg, png of gif format.
+3. Upload a screenshot picture to the following S3 location (bucket/prefix): big-data-camp-group21-lesson3/<your-user-name> (<your-user-name> is IAM user name provided in the email).
